@@ -1,6 +1,7 @@
 <template>
   <q-page class="flex flex-center">
-   <h1>Evidencija</h1>
+   <center><h1>Evidencija</h1>
+   <h3>Main Page</h3></center>
 
    <!-- <img
       alt="Quasar logo"
